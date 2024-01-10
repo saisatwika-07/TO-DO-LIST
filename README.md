@@ -33,3 +33,6 @@ Follow these steps to set up and run the application:
 ## Dependencies
 - Android Studio
 - Java
+
+![WhatsApp Image 2024-01-10 at 3 15 32 PM](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/8edc6ef9-4093-49ac-8acc-0c17460c974a)
+
