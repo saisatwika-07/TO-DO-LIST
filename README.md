@@ -14,3 +14,22 @@ This Android application is a feature-rich to-do list that empowers users to eff
    - Each task is equipped with a title and a detailed description. This enables users to capture essential information about the task.
 ### 6. Local Storage
    - The app employs local storage to save tasks. This ensures that tasks persist even when the app is closed, providing a seamless user experience.
+## Getting Started
+Follow these steps to set up and run the application:
+### Prerequisites
+- Android Studio installed
+- Java installed
+### Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/your-todo-app.git
+     ```
+2. Open the project in Android Studio.
+3. Build and run the application on an Android emulator or physical device.
+### Usage
+1. Launch the application on your Android device.
+2. Add tasks by providing the title, description, due date, priority, category, and status.
+3. View and manage your tasks within the intuitive user interface.
+## Dependencies
+- Android Studio
+- Java
