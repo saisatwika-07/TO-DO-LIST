@@ -34,5 +34,14 @@ Follow these steps to set up and run the application:
 - Android Studio
 - Java
 
-![WhatsApp Image 2024-01-10 at 3 15 32 PM](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/8edc6ef9-4093-49ac-8acc-0c17460c974a)
+## Screenshots of the App
+
+![WhatsApp Image 2024-01-10 at 3 15 35 PM](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/3d5989d3-4c18-482f-a39b-b81fb67c511e)
+![WhatsApp Image 2024-01-10 at 3 15 34 PM (1)](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/945a9cf2-a22f-45f7-9b94-505b87ddefda)
+![WhatsApp Image 2024-01-10 at 3 15 34 PM](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/5d9bf5ec-388f-4e87-a63a-f0e7c8fc8350)
+![WhatsApp Image 2024-01-10 at 3 15 33 PM (2)](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/c42f35be-5c6a-4abc-ace4-d11c458a6a18)
+![WhatsApp Image 2024-01-10 at 3 15 33 PM (1)](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/affa12d5-afa8-4e40-8a6b-632a0771f043)
+![WhatsApp Image 2024-01-10 at 3 15 33 PM](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/5374ab7b-3ed0-4ba8-b8c1-6e5cdd5bbe35)
+![WhatsApp Image 2024-01-10 at 3 15 32 PM](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/8e8ba55a-3fac-4cb2-a65f-6c6ad6c6f660)
+![WhatsApp Image 2024-01-10 at 3 40 33 PM (1)](https://github.com/saisatwika-07/TO-DO-LIST/assets/129086759/94fc233c-841c-48ed-8395-6b925fc5e9f0)
 
