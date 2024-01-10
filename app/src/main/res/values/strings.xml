@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDoApp</string>
+    <string name="priority_prompt">Select Priority</string>
+    <string name="category_prompt">Select Category</string>
+    <string name="task_prompt">Task Status</string>
+</resources>

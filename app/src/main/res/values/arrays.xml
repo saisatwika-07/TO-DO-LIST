@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priority_levels">
+        <item>Priority Levels</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Categories</item>
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Study</item>
+        <item>Shopping</item>
+    </string-array>
+    <string-array name="taskstatus">
+        <item>TaskStatus</item>
+        <item>New</item>
+        <item>In-Progress</item>
+        <item>Completed</item>
+    </string-array>
+</resources>
